@@ -1,0 +1,475 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name='renderer' content='webkit'>
+<meta charset='utf-8' />
+<title>
+全抛釉
+</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<meta content="telephone=no" name="format-detection" />
+<link href="favicon.ico" rel="apple-touch-icon-precomposed" />
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/metinfo.css" id="metuimodule" data-module ="10001" />
+
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/default.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/green.css" />
+
+<!--矢量图标css begin-->
+<link rel="stylesheet" href="http://www.hudsonhome.cn/wapfile/css/font-awesome.min.css">
+<!--矢量图标css end-->
+
+<!--轮播皮肤css begin-->
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/slider.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/slider.default.css" /> 
+<!--轮播皮肤css end-->
+
+<!--面板皮肤css begin-->
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/panel.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/panel.default.css" />
+<!--面板皮肤css begin-->
+
+<!--内滚导航css begin-->
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/navigator.css" />
+<!--内滚导航css end-->
+
+<!--选项卡css begin-->
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/transitions.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/tabs.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/tabs.default.css" />
+<!--选项卡css end-->
+
+<!--核心组件js begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/zepto.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/touch.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/matchMedia.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/event.ortchange.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/parseTpl.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/gmu.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/event.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/widget.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/iscroll.js"></script>
+
+<!--面板相关 end-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/throttle.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/event.scrollStop.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/panel.js"></script>
+<!--面板相关js end-->
+
+<!--轮播组件 begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/slider.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/arrow.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/dots.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$touch.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$autoplay.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$lazyloadimg.js"></script>
+<!--轮播组件js end-->
+
+<!--内滚导航js begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/highlight.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/navigator.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/scrolltonext.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$scrollable.js"></script>
+<!--内滚导航js end-->
+
+<!--选项卡js begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/tabs/tabs.js"></script>
+<!--选项卡js end-->
+
+<!--图片加载js begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/imglazyload.js"></script>
+<!--图片加载js end-->
+
+<script type="text/javascript">
+var ks = 4,
+	columnshow=3,
+	classnow='10001',
+	lang='cn',
+	fliptext1='查看更多',
+	fliptext2='加载中...'
+	,Empty='不能为空'
+	,member_err1='两次密码输入不一致'
+	,member_err2='密码应大于等于6位！'
+	,member_err3=''
+	,member_err4='用户名不能小于3位'
+	,falsh_y='350'
+	,promaximgY='300'
+	,imgmaximgY='300'
+	;
+</script>
+<style type="text/css">
+body{ font-size:14px!important;}
+.flexslider li img{ height:350px;}
+.showproduct_slides img{ height:300px!important;}
+.showimg_slides img{ height:300px!important;}
+.dl-jqrun dt img,.dl-jqrun dt{ max-width:px;}
+</style>
+</head>
+<body>
+	<div class="metcont" style="background:#fff;">
+
+    <header data-value=1>
+	
+	
+		<div class="top">
+			<div class="top-logo" style="color:white;font-size:18px;padding-top:10px;">
+				&nbsp;哈德逊瓷砖
+			</div>
+			<ul class="top-right">
+				<li class="tlist seach"><span class="tspan icon-search"></span>
+				</li>
+
+
+				<li class="tlist column"><span class="tspan icon-reorder"></span>
+			        <!--导航方式3-->
+					<nav class="type3 none topmorebox"><i></i>
+					  <ul class="list-none">
+					  <li id="nav_10001"  ><a href='http://www.hudsonhome.cn/wap/gywm/' title='关于我们' class='nav'><span>关于我们</span></a></li>
+					  <li id='nav_1'  ><a href='http://www.hudsonhome.cn/wap/cpzx/'  title='关于我们' class='hover-none nav'><span>产品中心</span></a></li>
+					  <li id='nav_2'  class='navdown'>
+					  						  <a href="http://www.hudsonhome.cn/wap/ppgs/2014-09-23/746.html" title='产品展示' class='hover-none nav'>
+					  					  <span>品牌故事</span></a></li>
+					  <li id='nav_7'  >
+					  						  <a href="http://www.hudsonhome.cn/wap/ztfc/2014-09-23/768.html" title='展厅风采' class='hover-none nav'>
+					  					  <span>展厅风采</span></a></li>
+					  <li id='nav_19'  >
+					  						  <a href="http://www.hudsonhome.cn/wap/zxhd/2014-10-15/963.html" title='最新活动' class='hover-none nav'>
+					  					  <span>最新活动</span></a></li>
+					  <li id='nav_18'  ><a href='http://www.hudsonhome.cn/wap/gcal/'  title='工程案例' class='hover-none nav'><span>工程案例</span></a></li>
+					  <li id='nav_18'  >
+					  						  <a href="http://www.hudsonhome.cn/wap/jmfw/2014-09-23/769.html" title='加盟服务' class='hover-none nav'>
+					  					  <span>加盟服务</span></a></li>
+					  <li id='nav_18'  ><a href='http://www.hudsonhome.cn/wap/zxzx/'  title='最新资讯' class='hover-none nav'><span>最新资讯</span></a></li>
+					  <li id='nav_18'  >
+					  						  <a href="http://www.hudsonhome.cn/wap/lxwm/2014-09-23/645.html" title='联系我们' class='hover-none nav'>
+					  					  <span>联系我们</span></a></li>
+					  </ul>
+					</nav>
+				</li>
+
+			</ul>
+		</div>
+<!--搜索框-->
+<div class="seachbox none topmorebox">
+	<div class="seachbox_box">
+			<i></i>
+			<form method="POST" name="myform" action="http://www.hudsonhome.cn//e/search/index.php">
+                <input type="text" name="keyboard" class="text" placeholder="请输入关键词" />
+                <input type="hidden" name="show" value="title" />
+				<input type="hidden" name="tempid" value="1" />
+                <input type="hidden" name="tbname" value="news" />
+                
+                <input type="submit" name="Submit" value="立即搜索" class="submit" />
+            </form>
+	</div>
+</div>
+
+
+
+
+	</header>
+<script type="text/javascript">
+//导航
+$("#nav li.navdown").addClass('ui-state-active');
+if($("nav").size()>0){
+var navsize = $('.navflipsnap li').size();
+	var navszlt = new Array();
+	if(columnshow==1){//内滚导航
+	if(document.documentElement.clientWidth>800){
+		$(".metcont").width(340);
+	}
+		function navmore(navsize,ks){
+			ks=ks>4?4:ks;
+			navszlt[1] = Math.round($('.metcont').width()/1);
+			navszlt[2] = Math.round($('.metcont').width()/2);
+			navszlt[3] = Math.round($('.metcont').width()/3);
+			navszlt[4] = Math.round($('.metcont').width()/4);
+			$('#nav li').width(navszlt[ks]);
+			$('#nav').navigator();
+		}
+		navmore(navsize,ks);
+		$(window).resize(function() {
+			navmore(navsize,ks);
+		});
+	}else if(columnshow==2){//普通导航
+		function navtype2(ks){
+			navszlt[1] = '100%';
+			navszlt[2] = '50%';
+			navszlt[3] = '33.3%';
+			navszlt[4] = '25%';
+			$('nav.type2 li,nav.type3 li').css("width",navszlt[ks]);
+			//if(ks==3)$('nav.type2 li,nav.type3 li').each(function(i){ i++; if(i%3==0){ $(this).css("width",'34%'); } });
+		}
+		navtype2(ks);
+		$(window).resize(function() {
+			navtype2(ks);
+		});
+	}
+}
+</script>
+
+
+
+
+<div class="sidebar">
+
+    <div class="sb_nav">
+			<h3 class='title'>
+
+			<!-- <p class="moresidebar">更多分类</p> -->
+			全抛釉
+			</h3>
+    </div>
+
+    <div class="sb_box">
+
+        <div class="active ajaxlist" id="productlist">
+
+			<ul class="poroduct_list_2">
+		      
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/633.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/0e8a74b9821561c1d5ca3db0c3d355b0.jpg" alt="昆仑玉" title="昆仑玉" /></dt>
+				<dd>
+					<h4><span class="hot"></span>昆仑玉</h4>
+					<p class="desc" title="">名称：昆仑玉<br />
+编号：HDPY26</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/629.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/b5e6d09b0a8384d68cbeae5d6a796878.jpg" alt="法国红香槟　　　" title="法国红香槟　　　" /></dt>
+				<dd>
+					<h4><span class="hot"></span>法国红香槟　　　</h4>
+					<p class="desc" title="">名称：法国红香槟<br />
+编号：HDPY13</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2015-01-16/1722.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/26d86f54bcc903eff213e25707761c95.jpg" alt="卡拉拉" title="卡拉拉" /></dt>
+				<dd>
+					<h4><span class="hot"></span>卡拉拉</h4>
+					<p class="desc" title="">名称：卡拉拉哑光面<br />
+编号：HDPY1119</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/641.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/b301d38b0589e79c976b8d262fbd15f6.jpg" alt="卡拉拉" title="卡拉拉" /></dt>
+				<dd>
+					<h4><span class="hot"></span>卡拉拉</h4>
+					<p class="desc" title="">名称：卡拉拉亮光面<br />
+编号：HDPY1119</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/640.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/12d055d76c0a5c78388960e22230c921.jpg" alt="雅士白" title="雅士白" /></dt>
+				<dd>
+					<h4><span class="hot"></span>雅士白</h4>
+					<p class="desc" title="">名称：雅士白<br />
+编号：HDPY06</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/639.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/f53717413317bcce394bb52a9c97cc8a.jpg" alt="青花白玉" title="青花白玉" /></dt>
+				<dd>
+					<h4><span class="hot"></span>青花白玉</h4>
+					<p class="desc" title="">名称：青花白玉<br />
+编号：HDPY05</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/637.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/d2fa0823d5094aae5348c4b2def34940.jpg" alt="意大利黑金花" title="意大利黑金花" /></dt>
+				<dd>
+					<h4><span class="hot"></span>意大利黑金花</h4>
+					<p class="desc" title="">名称：意大利黑金花<br />
+编号：HDPY07</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/638.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/4d3a9967fc24e88c6b1b8ea06a1c84d2.jpg" alt="西班牙深啡网" title="西班牙深啡网" /></dt>
+				<dd>
+					<h4><span class="hot"></span>西班牙深啡网</h4>
+					<p class="desc" title="">名称：西班牙深啡网<br />
+编号：HDPY212</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/635.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/b2165564e25a8679176719a5001783b2.jpg" alt="香槟玉" title="香槟玉" /></dt>
+				<dd>
+					<h4><span class="hot"></span>香槟玉</h4>
+					<p class="desc" title="">名称：香槟玉600<br />
+编号：HD365</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/636.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/d424261a5fadf8b173b01d857e4efc72.jpg" alt="香槟玉" title="香槟玉" /></dt>
+				<dd>
+					<h4><span class="hot"></span>香槟玉</h4>
+					<p class="desc" title="">名称：香槟玉800<br />
+编号：HDPY01</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/634.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/d424261a5fadf8b173b01d857e4efc72.jpg" alt="金花玉" title="金花玉" /></dt>
+				<dd>
+					<h4><span class="hot"></span>金花玉</h4>
+					<p class="desc" title="">名称：金花玉<br />
+编号：HDPY21</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/632.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/a498b06f8bfd421dfbe2494bb54804e7.jpg" alt="和田黄玉" title="和田黄玉" /></dt>
+				<dd>
+					<h4><span class="hot"></span>和田黄玉</h4>
+					<p class="desc" title="">名称：和田黄玉<br />
+编号：HDPY18</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/631.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/03fbe1f60abf0033f92c0db9f534c4c4.jpg" alt="贵妃玉" title="贵妃玉" /></dt>
+				<dd>
+					<h4><span class="hot"></span>贵妃玉</h4>
+					<p class="desc" title="">名称：贵妃玉<br />
+编号：HDPY03</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			    	<li>
+		<a href="http://www.hudsonhome.cn/wap/cpzx/qpy/2014-09-23/630.html">
+			<dl class="ind">
+				<dt><img src="/d/file/cpyfw/cpfl/qpy/2015-01-06/4306aaade7e8abf0b5cbd3e9dc4d1c39.jpg" alt="缅甸翡翠玉　" title="缅甸翡翠玉　" /></dt>
+				<dd>
+					<h4><span class="hot"></span>缅甸翡翠玉　</h4>
+					<p class="desc" title="">名称：缅甸翡翠玉<br />
+编号：HDPY16</p>
+				</dd>
+				<dt class="more"></dt>
+			</dl>
+		</a>
+	</li>
+			  
+			</ul>	
+             
+
+		</div>
+
+    </div>
+    <div class="clear"></div>
+</div>
+
+<style type="text/css">
+     .foot-text{background:#9a9b9f; color:#ffffff;}
+     .foot-text a{ color:#ffffff;}
+</style>
+	<div class="foot-text">
+		服务热线：0757-82279667<div class='metpcmobile'>版有所权，侵权必究</div>
+
+	</div>
+
+<div id="footnum" data-value="1"></div>
+
+
+<div id="footernav">
+	<div class="footerboxnav">
+	
+         <div id="jisou-info" class="jisou-info" style="display:none;"></div>
+             <div class="info-nr">
+                <div id="info-nr-phone" class="info-nr-phone color-orange">
+                  <input id="info-nr-btn" type="checkbox" class="info-nr-menu">
+                     <div> <a href="tel:0757-82786959"><span class="icon-phone tel"></span></a> </div>
+                     <div> <a href="http://www.hudsonhome.cn/wapfile/map.html"><span class="icon-map-marker map"></span></a> </div>
+                     <div> <a href="message/index.php?lang=cn"><span class="icon-edit message"></span></a> </div>
+                     <div> <a href="http://www.hudsonhome.cn/wap/"><span class="icon-home home"></span></a> </div>
+                </div>
+        </div>
+  
+	</div>
+</div>
+<style type="text/css">
+	.metcont{ padding-bottom:0px!important;}
+</style>
+
+</div>
+
+<script src="http://www.hudsonhome.cn/wapfile/js/fun.inc.js" type="text/javascript"></script>
+</body>
+</html>

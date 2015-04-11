@@ -1,0 +1,456 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name='renderer' content='webkit'>
+<meta charset='utf-8' />
+<title>
+最新资讯
+</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<meta content="telephone=no" name="format-detection" />
+<link href="favicon.ico" rel="apple-touch-icon-precomposed" />
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/metinfo.css" id="metuimodule" data-module ="10001" />
+
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/default.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/green.css" />
+
+<!--矢量图标css begin-->
+<link rel="stylesheet" href="http://www.hudsonhome.cn/wapfile/css/font-awesome.min.css">
+<!--矢量图标css end-->
+
+<!--轮播皮肤css begin-->
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/slider.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/slider.default.css" /> 
+<!--轮播皮肤css end-->
+
+<!--面板皮肤css begin-->
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/panel.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/panel.default.css" />
+<!--面板皮肤css begin-->
+
+<!--内滚导航css begin-->
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/navigator.css" />
+<!--内滚导航css end-->
+
+<!--选项卡css begin-->
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/transitions.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/tabs.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/tabs.default.css" />
+<!--选项卡css end-->
+
+<!--核心组件js begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/zepto.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/touch.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/matchMedia.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/event.ortchange.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/parseTpl.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/gmu.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/event.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/widget.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/iscroll.js"></script>
+
+<!--面板相关 end-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/throttle.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/event.scrollStop.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/panel.js"></script>
+<!--面板相关js end-->
+
+<!--轮播组件 begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/slider.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/arrow.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/dots.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$touch.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$autoplay.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$lazyloadimg.js"></script>
+<!--轮播组件js end-->
+
+<!--内滚导航js begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/highlight.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/navigator.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/scrolltonext.js"></script>
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$scrollable.js"></script>
+<!--内滚导航js end-->
+
+<!--选项卡js begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/tabs/tabs.js"></script>
+<!--选项卡js end-->
+
+<!--图片加载js begin-->
+<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/imglazyload.js"></script>
+<!--图片加载js end-->
+
+<script type="text/javascript">
+var ks = 4,
+	columnshow=3,
+	classnow='10001',
+	lang='cn',
+	fliptext1='查看更多',
+	fliptext2='加载中...'
+	,Empty='不能为空'
+	,member_err1='两次密码输入不一致'
+	,member_err2='密码应大于等于6位！'
+	,member_err3=''
+	,member_err4='用户名不能小于3位'
+	,falsh_y='350'
+	,promaximgY='300'
+	,imgmaximgY='300'
+	;
+</script>
+<style type="text/css">
+body{ font-size:14px!important;}
+.flexslider li img{ height:350px;}
+.showproduct_slides img{ height:300px!important;}
+.showimg_slides img{ height:300px!important;}
+.dl-jqrun dt img,.dl-jqrun dt{ max-width:px;}
+</style>
+</head>
+<body>
+	<div class="metcont" style="background:#fff;">
+
+    <header data-value=1>
+	
+	
+		<div class="top">
+			<div class="top-logo" style="color:white;font-size:18px;padding-top:10px;">
+				&nbsp;哈德逊瓷砖
+			</div>
+			<ul class="top-right">
+				<li class="tlist seach"><span class="tspan icon-search"></span>
+				</li>
+
+
+				<li class="tlist column"><span class="tspan icon-reorder"></span>
+			        <!--导航方式3-->
+					<nav class="type3 none topmorebox"><i></i>
+					  <ul class="list-none">
+					  <li id="nav_10001"  ><a href='http://www.hudsonhome.cn/wap/gywm/' title='关于我们' class='nav'><span>关于我们</span></a></li>
+					  <li id='nav_1'  ><a href='http://www.hudsonhome.cn/wap/cpzx/'  title='关于我们' class='hover-none nav'><span>产品中心</span></a></li>
+					  <li id='nav_2'  class='navdown'>
+					  						  <a href="http://www.hudsonhome.cn/wap/ppgs/2014-09-23/746.html" title='产品展示' class='hover-none nav'>
+					  					  <span>品牌故事</span></a></li>
+					  <li id='nav_7'  >
+					  						  <a href="http://www.hudsonhome.cn/wap/ztfc/2014-09-23/768.html" title='展厅风采' class='hover-none nav'>
+					  					  <span>展厅风采</span></a></li>
+					  <li id='nav_19'  >
+					  						  <a href="http://www.hudsonhome.cn/wap/zxhd/2014-10-15/963.html" title='最新活动' class='hover-none nav'>
+					  					  <span>最新活动</span></a></li>
+					  <li id='nav_18'  ><a href='http://www.hudsonhome.cn/wap/gcal/'  title='工程案例' class='hover-none nav'><span>工程案例</span></a></li>
+					  <li id='nav_18'  >
+					  						  <a href="http://www.hudsonhome.cn/wap/jmfw/2014-09-23/769.html" title='加盟服务' class='hover-none nav'>
+					  					  <span>加盟服务</span></a></li>
+					  <li id='nav_18'  ><a href='http://www.hudsonhome.cn/wap/zxzx/'  title='最新资讯' class='hover-none nav'><span>最新资讯</span></a></li>
+					  <li id='nav_18'  >
+					  						  <a href="http://www.hudsonhome.cn/wap/lxwm/2014-09-23/645.html" title='联系我们' class='hover-none nav'>
+					  					  <span>联系我们</span></a></li>
+					  </ul>
+					</nav>
+				</li>
+
+			</ul>
+		</div>
+<!--搜索框-->
+<div class="seachbox none topmorebox">
+	<div class="seachbox_box">
+			<i></i>
+			<form method="POST" name="myform" action="http://www.hudsonhome.cn//e/search/index.php">
+                <input type="text" name="keyboard" class="text" placeholder="请输入关键词" />
+                <input type="hidden" name="show" value="title" />
+				<input type="hidden" name="tempid" value="1" />
+                <input type="hidden" name="tbname" value="news" />
+                
+                <input type="submit" name="Submit" value="立即搜索" class="submit" />
+            </form>
+	</div>
+</div>
+
+
+
+
+	</header>
+<script type="text/javascript">
+//导航
+$("#nav li.navdown").addClass('ui-state-active');
+if($("nav").size()>0){
+var navsize = $('.navflipsnap li').size();
+	var navszlt = new Array();
+	if(columnshow==1){//内滚导航
+	if(document.documentElement.clientWidth>800){
+		$(".metcont").width(340);
+	}
+		function navmore(navsize,ks){
+			ks=ks>4?4:ks;
+			navszlt[1] = Math.round($('.metcont').width()/1);
+			navszlt[2] = Math.round($('.metcont').width()/2);
+			navszlt[3] = Math.round($('.metcont').width()/3);
+			navszlt[4] = Math.round($('.metcont').width()/4);
+			$('#nav li').width(navszlt[ks]);
+			$('#nav').navigator();
+		}
+		navmore(navsize,ks);
+		$(window).resize(function() {
+			navmore(navsize,ks);
+		});
+	}else if(columnshow==2){//普通导航
+		function navtype2(ks){
+			navszlt[1] = '100%';
+			navszlt[2] = '50%';
+			navszlt[3] = '33.3%';
+			navszlt[4] = '25%';
+			$('nav.type2 li,nav.type3 li').css("width",navszlt[ks]);
+			//if(ks==3)$('nav.type2 li,nav.type3 li').each(function(i){ i++; if(i%3==0){ $(this).css("width",'34%'); } });
+		}
+		navtype2(ks);
+		$(window).resize(function() {
+			navtype2(ks);
+		});
+	}
+}
+</script>
+
+
+
+
+<div class="sidebar">
+
+    <div class="sb_nav">
+			<h3 class='title'>
+
+			<!-- <p class="moresidebar">更多分类</p> -->
+
+			最新资讯
+			</h3>
+    </div>
+
+    <div class="sb_box">
+
+        <div class="active ajaxlist" id="newslist">
+			<ul>
+				
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-03/1188.html">
+		<h4><p class="t"><span class="hot"></span>国内瓷砖生产商明争暗斗 质量参差不齐的背后谁是幕后黑手</p><p class="time">2014-11-03 17:52:32</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-03/1187.html">
+		<h4><p class="t"><span class="hot"></span>佛山80x80瓷砖价格参差不齐 种类不拘一格让人举棋不定</p><p class="time">2014-11-03 17:49:27</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-03/1186.html">
+		<h4><p class="t"><span class="hot"></span>地砖一线品牌琳琅满目 高明远见选购为家装锦上添花</p><p class="time">2014-11-03 17:43:05</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-02/1173.html">
+		<h4><p class="t"><span class="hot"></span>家居瓷砖选购因人而异 客厅防滑瓷砖品牌呼之欲出</p><p class="time">2014-11-02 18:53:05</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-02/1172.html">
+		<h4><p class="t"><span class="hot"></span>仿古瓷砖价格日益透明化 暗箱操作价格将被淘汰</p><p class="time">2014-11-02 18:50:31</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-01/1169.html">
+		<h4><p class="t"><span class="hot"></span>地砖、墙砖哪个品牌好,建材市场里披沙拣金整体家装遐迩一体</p><p class="time">2014-11-01 18:44:21</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-01/1168.html">
+		<h4><p class="t"><span class="hot"></span>瓷砖哪个厂家是名牌儿,正品装修锦上添花别具一番风味</p><p class="time">2014-11-01 18:43:20</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-01/1167.html">
+		<h4><p class="t"><span class="hot"></span>佛山什么品牌瓷砖性价比高 普天之下唯哈德逊独尊</p><p class="time">2014-11-01 18:40:52</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-01/1166.html">
+		<h4><p class="t"><span class="hot"></span>佛山低价瓷砖热火朝天 家装市场盛况空前万人空巷</p><p class="time">2014-11-01 18:38:44</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-01/1165.html">
+		<h4><p class="t"><span class="hot"></span>佛山瓷砖为什么这么好？历史悠久身经百战有口皆碑</p><p class="time">2014-11-01 18:36:01</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-11-01/1164.html">
+		<h4><p class="t"><span class="hot"></span>仿古瓷砖批发价格走马观花 陶企如何居安思危永保品牌万古长青</p><p class="time">2014-11-01 18:32:26</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-31/1157.html">
+		<h4><p class="t"><span class="hot"></span>佛山工程瓷砖楚楚不凡,批发供应源源不断</p><p class="time">2014-10-31 18:10:03</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-31/1156.html">
+		<h4><p class="t"><span class="hot"></span>房间地板瓷砖怎么选,装修天马行空不再循规蹈矩</p><p class="time">2014-10-31 18:05:18</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-31/1155.html">
+		<h4><p class="t"><span class="hot"></span>真金不怕红炉火 家用瓷砖品牌逐个数</p><p class="time">2014-10-31 17:58:49</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-31/1154.html">
+		<h4><p class="t"><span class="hot"></span>佛山微晶石瓷砖品牌之路借势发力 逆市攀升绝境逢生</p><p class="time">2014-10-31 17:56:58</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-31/1153.html">
+		<h4><p class="t"><span class="hot"></span>仿古砖生产厂家暗潮涌动 在冷若冰霜的建材市场发光发热</p><p class="time">2014-10-31 17:54:36</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-31/1152.html">
+		<h4><p class="t"><span class="hot"></span>地面瓷砖价格表一目了然 选购不再优柔寡断</p><p class="time">2014-10-31 17:51:01</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-31/1151.html">
+		<h4><p class="t"><span class="hot"></span>瓷砖常用品牌街知巷闻 如何选择让家装高枕无忧</p><p class="time">2014-10-31 17:47:20</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-30/1143.html">
+		<h4><p class="t"><span class="hot"></span>中等瓷砖品牌哪个比较好,金砖银砖不及门当户对</p><p class="time">2014-10-30 18:05:39</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-30/1142.html">
+		<h4><p class="t"><span class="hot"></span>国内最好的瓷砖声名远扬,屌丝土豪各得其宜</p><p class="time">2014-10-30 18:01:22</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-30/1141.html">
+		<h4><p class="t"><span class="hot"></span>卫生间用什么瓷砖好 选择品牌千锤百炼坚固耐用</p><p class="time">2014-10-30 18:00:12</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-30/1140.html">
+		<h4><p class="t"><span class="hot"></span>环保瓷砖价格良莠不齐 多渠道了解做到有备无患</p><p class="time">2014-10-30 17:58:24</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-30/1139.html">
+		<h4><p class="t"><span class="hot"></span>佛山瓷砖市场喷墨瓷砖纷至沓来 成未来家装新宠</p><p class="time">2014-10-30 17:54:12</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-29/1133.html">
+		<h4><p class="t"><span class="hot"></span>最好瓷砖品牌八面莹澈创新促销思路断鳌立极</p><p class="time">2014-10-29 17:44:53</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+			     <li>
+	<a href="http://www.hudsonhome.cn/wap/zxzx/2014-10-29/1132.html">
+		<h4><p class="t"><span class="hot"></span>高级瓷砖价格亲民化,大牌折扣进驻琼楼玉宇无可比拟</p><p class="time">2014-10-29 17:42:52</p></h4>
+		<span class="more"></span>
+	</a>
+</li>
+			    
+
+			</ul>
+
+			<div class1="7" class2="0" class3="0" page="1" pageall="2"><a title="Total record">&nbsp;<b>518</b> </a>&nbsp;&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index.html">首页</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_13.html">上一页</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_12.html">12</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_13.html">13</a>&nbsp;<b>14</b>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_15.html">15</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_16.html">16</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_17.html">17</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_18.html">18</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_19.html">19</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_20.html">20</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_21.html">21</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_15.html">下一页</a>&nbsp;<a href="http://www.hudsonhome.cn/wap/zxzx/index_21.html">尾页</a></div>
+
+		</div>
+
+    </div>
+    <div class="clear"></div>
+</div>
+
+<style type="text/css">
+     .foot-text{background:#9a9b9f; color:#ffffff;}
+     .foot-text a{ color:#ffffff;}
+</style>
+	<div class="foot-text">
+		服务热线：0757-82279667<div class='metpcmobile'>版有所权，侵权必究</div>
+
+	</div>
+
+<div id="footnum" data-value="1"></div>
+
+
+<div id="footernav">
+	<div class="footerboxnav">
+	
+         <div id="jisou-info" class="jisou-info" style="display:none;"></div>
+             <div class="info-nr">
+                <div id="info-nr-phone" class="info-nr-phone color-orange">
+                  <input id="info-nr-btn" type="checkbox" class="info-nr-menu">
+                     <div> <a href="tel:0757-82786959"><span class="icon-phone tel"></span></a> </div>
+                     <div> <a href="http://www.hudsonhome.cn/wapfile/map.html"><span class="icon-map-marker map"></span></a> </div>
+                     <div> <a href="message/index.php?lang=cn"><span class="icon-edit message"></span></a> </div>
+                     <div> <a href="http://www.hudsonhome.cn/wap/"><span class="icon-home home"></span></a> </div>
+                </div>
+        </div>
+  
+	</div>
+</div>
+<style type="text/css">
+	.metcont{ padding-bottom:0px!important;}
+</style>
+
+</div>
+
+<script src="http://www.hudsonhome.cn/wapfile/js/fun.inc.js" type="text/javascript"></script>
+</body>
+</html>
