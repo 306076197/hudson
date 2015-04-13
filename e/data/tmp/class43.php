@@ -25,74 +25,74 @@ WAP网站
 <meta content="telephone=no" name="format-detection" />
 <link href="favicon.ico" rel="apple-touch-icon-precomposed" />
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/metinfo.css" id="metuimodule" data-module ="10001" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/metinfo.css" id="metuimodule" data-module ="10001" />
 
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/default.css" />
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/green.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/default.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/green.css" />
 
 <!--矢量图标css begin-->
-<link rel="stylesheet" href="http://www.hudsonhome.cn/wapfile/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://www.hudson.com/wapfile/css/font-awesome.min.css">
 <!--矢量图标css end-->
 
 <!--轮播皮肤css begin-->
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/slider.css" />
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/slider.default.css" /> 
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/slider.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/slider.default.css" /> 
 <!--轮播皮肤css end-->
 
 <!--面板皮肤css begin-->
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/panel.css" />
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/panel.default.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/panel.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/panel.default.css" />
 <!--面板皮肤css begin-->
 
 <!--内滚导航css begin-->
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/navigator.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/navigator.css" />
 <!--内滚导航css end-->
 
 <!--选项卡css begin-->
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/transitions.css" />
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/tabs.css" />
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/wapfile/css/tabs.default.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/transitions.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/tabs.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/wapfile/css/tabs.default.css" />
 <!--选项卡css end-->
 
 <!--核心组件js begin-->
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/zepto.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/touch.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/matchMedia.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/event.ortchange.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/parseTpl.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/gmu.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/event.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/widget.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/iscroll.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/zepto.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/touch.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/matchMedia.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/event.ortchange.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/parseTpl.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/gmu.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/event.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/widget.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/iscroll.js"></script>
 
 <!--面板相关 end-->
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/throttle.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/event.scrollStop.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/panel.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/throttle.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/event.scrollStop.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/panel.js"></script>
 <!--面板相关js end-->
 
 <!--轮播组件 begin-->
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/slider.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/arrow.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/dots.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$touch.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$autoplay.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$lazyloadimg.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/slider.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/arrow.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/dots.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/$touch.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/$autoplay.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/$lazyloadimg.js"></script>
 <!--轮播组件js end-->
 
 <!--内滚导航js begin-->
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/highlight.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/navigator.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/scrolltonext.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/$scrollable.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/highlight.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/navigator.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/scrolltonext.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/$scrollable.js"></script>
 <!--内滚导航js end-->
 
 <!--选项卡js begin-->
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/tabs/tabs.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/tabs/tabs.js"></script>
 <!--选项卡js end-->
 
 <!--图片加载js begin-->
-<script type="text/javascript" src="http://www.hudsonhome.cn/wapfile/js/imglazyload.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/wapfile/js/imglazyload.js"></script>
 <!--图片加载js end-->
 
 <script type="text/javascript">
@@ -201,7 +201,7 @@ $bqno++;
             <ul class="list_font">
 
                     <li>
-						<a href="http://www.hudsonhome.cn/wap/gywm/">
+						<a href="http://www.hudson.com/wap/gywm/">
 						    <div style="background-color:#686b70;"><span class="icon-user"></span></div>
                             <div>
                                 <p>关于我们</p>
@@ -210,7 +210,7 @@ $bqno++;
                     </li>
 
                     <li>
-					    <a href="http://www.hudsonhome.cn/wap/cpzx/">
+					    <a href="http://www.hudson.com/wap/cpzx/">
 						    <div style="background-color:#87c236;"><span class="icon-th"></span></div>
                             <div>
                                 <p>产品中心</p>
@@ -293,7 +293,7 @@ $bqno++;
                     </li>
 
                     <li>
-						<a href="http://www.hudsonhome.cn/wap/gcal/">
+						<a href="http://www.hudson.com/wap/gcal/">
 						    <div style="background-color:#87c236;"><span class="icon-trophy"></span></div>
                             <div>
                                 <p>工程案例</p>
@@ -335,7 +335,7 @@ $bqno++;
                     </li>
 
                     <li>
-						<a href="http://www.hudsonhome.cn/wap/zxzx/">
+						<a href="http://www.hudson.com/wap/zxzx/">
 						    <div style="background-color:#87c236;"><span class="icon-globe"></span></div>
                             <div>
                                 <p>最新资讯</p>
@@ -395,9 +395,9 @@ $bqno++;
                 <div id="info-nr-phone" class="info-nr-phone color-orange">
                   <input id="info-nr-btn" type="checkbox" class="info-nr-menu">
                      <div> <a href="tel:0757-82786959"><span class="icon-phone tel"></span></a> </div>
-                     <div> <a href="http://www.hudsonhome.cn/wapfile/map.html"><span class="icon-map-marker map"></span></a> </div>
+                     <div> <a href="http://www.hudson.com/wapfile/map.html"><span class="icon-map-marker map"></span></a> </div>
                      <div> <a href="message/index.php?lang=cn"><span class="icon-edit message"></span></a> </div>
-                     <div> <a href="http://www.hudsonhome.cn/wap/"><span class="icon-home home"></span></a> </div>
+                     <div> <a href="http://www.hudson.com/wap/"><span class="icon-home home"></span></a> </div>
                 </div>
         </div>
   
@@ -409,7 +409,7 @@ $bqno++;
 
 </div>
 
-<script src="http://www.hudsonhome.cn/wapfile/js/fun.inc.js" type="text/javascript"></script>
+<script src="http://www.hudson.com/wapfile/js/fun.inc.js" type="text/javascript"></script>
 
 </body>
 </html>

@@ -1,1 +1,1 @@
-document.write("<li><a href=\"http://www.hudsonhome.cn/wap/zxhd/2014-10-15/963.html\" title=\"哈德逊瓷砖 喜迎新年 拼抢年货\">哈德逊瓷砖 喜迎新年 拼抢年货</a></li>");
+document.write("<li><a href=\"http://www.hudson.com/wap/zxhd/2014-10-15/963.html\" title=\"哈德逊瓷砖 喜迎新年 拼抢年货\">哈德逊瓷砖 喜迎新年 拼抢年货</a></li>");

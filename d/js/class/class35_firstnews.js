@@ -1,1 +1,1 @@
-document.write("<li><a href=\"http://www.hudsonhome.cn/sy/kt/2014-03-16/163.html\" title=\"封面图\">封面图</a></li>");
+document.write("<li><a href=\"http://www.hudson.com/sy/kt/2014-03-16/163.html\" title=\"封面图\">封面图</a></li>");

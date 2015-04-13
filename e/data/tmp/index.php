@@ -13,20 +13,20 @@ if(!defined('InEmpireCMS'))
 <meta name="description" content="佛山哈德逊瓷砖成立于2006年,作为瓷砖十大品牌,陶瓷一线品牌之一,开创了陶瓷电商先河,成为国内建陶行业电商”鼻祖”,目前涵盖的产品有地板砖,卫生间瓷砖,仿古砖,微晶石瓷砖,全抛釉瓷砖,抛光瓷砖等,产品系列丰富,品种齐全,价格实惠,是广大瓷砖批发商,家居装修消费者的首选瓷砖品牌.好生活,哈德逊造!
 " />
 <meta name="author" content="哈德逊瓷砖网络营销部Chan，哈德逊瓷砖官网 -  www.hudsonhome.cn" />
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/skin/default/css/style.css" />
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/skin/default/css/xixi.css"/>
-<link rel="stylesheet" type="text/css" href="http://www.hudsonhome.cn/skin/default/css/sidebar.css" />
-<script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/jquery2.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/lrtk.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/jqnav.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/cn.global.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/Error.js"></script>
-<script src="http://www.hudsonhome.cn/skin/default/js/top-scroll2.js" type="text/javascript"></script>
-<script src="http://www.hudsonhome.cn/skin/default/js/tab.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/cn.index.js"></script>
-<script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/prolist.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/skin/default/css/style.css" />
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/skin/default/css/xixi.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.hudson.com/skin/default/css/sidebar.css" />
+<script type="text/javascript" src="http://www.hudson.com/skin/default/js/jquery2.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/skin/default/js/lrtk.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/skin/default/js/jqnav.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/skin/default/js/cn.global.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/skin/default/js/Error.js"></script>
+<script src="http://www.hudson.com/skin/default/js/top-scroll2.js" type="text/javascript"></script>
+<script src="http://www.hudson.com/skin/default/js/tab.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.hudson.com/skin/default/js/cn.index.js"></script>
+<script type="text/javascript" src="http://www.hudson.com/skin/default/js/prolist.js"></script>
 <!--[if lte IE 6]>
-<SCRIPT src="http://www.hudsonhome.cn/skin/default/js/iepng.js" type="text/javascript"></SCRIPT>
+<SCRIPT src="http://www.hudson.com/skin/default/js/iepng.js" type="text/javascript"></SCRIPT>
 <![endif]-->
 <script type="text/javascript">
         function checkAll()
@@ -104,7 +104,7 @@ function() {
     
     <div class="qqserver">
  
-    <img alt="扫一扫，订阅哈德逊官方微信" title="扫一扫，订阅哈德逊官方微信"  style="CURSOR: pointer"   border="0" src="http://www.hudsonhome.cn/skin/default/images/code.gif" />
+    <img alt="扫一扫，订阅哈德逊官方微信" title="扫一扫，订阅哈德逊官方微信"  style="CURSOR: pointer"   border="0" src="http://www.hudson.com/skin/default/images/code.gif" />
     </div>
     
     </div>
@@ -126,8 +126,8 @@ function() {
     
     <div class="qqserver">
     <a style="float: left;margin-bottom: -10px; margin-left:38px;" target="_blank" href="http://www.taobao.com/webww/?spm=a1z10.5.0.0.Gkj13e&ver=1&touid=cntaobao%E5%93%88%E5%BE%B7%E9%80%8A%E5%AE%B6%E5%B1%85%E6%97%97%E8%88%B0%E5%BA%97&siteid=cntaobao&status=2&portalId=&gid=&itemsId=&qq-pf-to=pcqq.c2c" ><img border="0" src="http://amos.alicdn.com/online.aw?v=2&uid=%E4%B8%9C%E9%B9%8F%E7%93%B7%E7%A0%96%E5%AE%98%E6%96%B9%E6%97%97%E8%88%B0%E5%BA%97&site=cntaobao&s=1&charset=utf-8" alt="有事点这里" /></a>
-    <a target="_blank" href="http://s.click.taobao.com/t?e=m%3D2%26s%3DZWhr0UWkyn8cQipKwQzePDAVflQIoZepK7Vc7tFgwiFRAdhuF14FMWDDy8wTTha18sviUM61dt1tNcsMuIh%2BKh29R7nYPLMtJF6lgHT%2B5diFHoER5iU6ZRPysRixKyQL"><img alt="哈德逊官方商城" title="哈德逊官方商城"  style="CURSOR: pointer"   border="0" src="http://www.hudsonhome.cn/skin/default/images/aid.png" /></a>
- <a target="_blank" style="margin-left:39px;" href="http://www.hudsonhome.cn/rlzy/zwlb/"><img alt="运营中心招聘" title="运营中心招聘"  style="CURSOR: pointer"   border="0" src="http://www.hudsonhome.cn/skin/default/images/Campus.jpg" /></a>
+    <a target="_blank" href="http://s.click.taobao.com/t?e=m%3D2%26s%3DZWhr0UWkyn8cQipKwQzePDAVflQIoZepK7Vc7tFgwiFRAdhuF14FMWDDy8wTTha18sviUM61dt1tNcsMuIh%2BKh29R7nYPLMtJF6lgHT%2B5diFHoER5iU6ZRPysRixKyQL"><img alt="哈德逊官方商城" title="哈德逊官方商城"  style="CURSOR: pointer"   border="0" src="http://www.hudson.com/skin/default/images/aid.png" /></a>
+ <a target="_blank" style="margin-left:39px;" href="http://www.hudson.com/rlzy/zwlb/"><img alt="运营中心招聘" title="运营中心招聘"  style="CURSOR: pointer"   border="0" src="http://www.hudson.com/skin/default/images/Campus.jpg" /></a>
   
   
     </div>
@@ -193,7 +193,7 @@ function() {
          	            }  
          	       } catch(err){}  
          	}  
-         uaredirect("http://www.hudsonhome.cn/wap/");
+         uaredirect("http://www.hudson.com/wap/");
 
 
 </script>
@@ -209,20 +209,20 @@ function() {
                         type="button" value="" class="ins_b" onclick="checkAll();" />
             </div>
             <div class="lan2">
-                <img src="http://www.hudsonhome.cn/skin/default/images/icon_8.png" width="16" height="11" align="absmiddle" />
+                <img src="http://www.hudson.com/skin/default/images/icon_8.png" width="16" height="11" align="absmiddle" />
                                                 中国 
             </div>
         </div>
         <div class="topbox1">
               <a target="_blank" href="http://hudson.tmall.com/shop/view_shop.htm?spm=a1z10.4.w5001-4530759858.6.yRhs4b&scene=taobao_shop">官方商城</a>
             关注我们：<a target="_blank" rel="nofollow" href="http://weibo.com/1hudson">
-                <img src="http://www.hudsonhome.cn/skin/default/images/icon_4.png" width="16" height="16" align="absmiddle" alt="新浪微博" title="新浪微博" />
+                <img src="http://www.hudson.com/skin/default/images/icon_4.png" width="16" height="16" align="absmiddle" alt="新浪微博" title="新浪微博" />
               </a> 
               <a target="_blank" rel="nofollow" href="http://t.qq.com/hudson2006">
-                    <img src="http://www.hudsonhome.cn/skin/default/images/icon_5.png" width="16" height="16" align="absmiddle" alt="腾讯微博" title="腾讯微博" />
+                    <img src="http://www.hudson.com/skin/default/images/icon_5.png" width="16" height="16" align="absmiddle" alt="腾讯微博" title="腾讯微博" />
               </a>
               <a rel="nofollow" href="http://www.jiathis.com/share/" class="jiathis" target="_blank">
-                  <img src="http://www.hudsonhome.cn/skin/default/images/icon_6.png" width="16" height="16" align="absmiddle" />
+                  <img src="http://www.hudson.com/skin/default/images/icon_6.png" width="16" height="16" align="absmiddle" />
               </a>
        </div>
     </div>
@@ -233,14 +233,14 @@ function() {
     <div class="wrap">
         <div class="headone">
             <h1>
-                <a href="http://www.hudsonhome.cn/">
-                    <img src="http://www.hudsonhome.cn/skin/default/images/logo.png"/></a></h1>
+                <a href="http://www.hudson.com/">
+                    <img src="http://www.hudson.com/skin/default/images/logo.png"/></a></h1>
             <div class="nav">
                 <ul class="navlist">
-                    <li><a href="http://www.hudsonhome.cn/">首 页</a></li>
+                    <li><a href="http://www.hudson.com/">首 页</a></li>
                 </ul>
                 <ul class="navlist" id="nav">
-                    <li class="lihover"><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/6.html">走进哈德逊</a>
+                    <li class="lihover"><a href="http://www.hudson.com/zjhdx/2014-02-22/6.html">走进哈德逊</a>
                         <div class="navbox">
                             <p class="boxlist">
                                <?php
@@ -259,7 +259,7 @@ $bqno++;
                             </p>
                         </div>
                     </li>
-                    <li class="lihover"><a href="http://www.hudsonhome.cn/xwzx/hdzq/">新闻资讯</a>
+                    <li class="lihover"><a href="http://www.hudson.com/xwzx/hdzq/">新闻资讯</a>
                         <div class="navbox">
                             <p class="boxlist" style="padding-left: 50px;">
                                 <?php
@@ -270,7 +270,7 @@ while($bqr=$empire->fetch($ecms_bq_sql)){
 $bqsr=sys_ReturnEcmsLoopStext($bqr);
 $bqno++;
 ?>
-							      <span><a href="http://www.hudsonhome.cn/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></span>
+							      <span><a href="http://www.hudson.com/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></span>
 							    <?php
 }
 }
@@ -278,7 +278,7 @@ $bqno++;
                             </p>
                         </div>
                     </li>
-                    <li class="bg lihover"><a href="http://www.hudsonhome.cn/cpyfw/zxcp/">产品与服务</a>
+                    <li class="bg lihover"><a href="http://www.hudson.com/cpyfw/zxcp/">产品与服务</a>
                         <div class="navbox">
                             <p class="boxlist" style="padding-left: 180px;">
                                <?php
@@ -294,7 +294,7 @@ $bqno++;
 								     	$bqr[classpath] = 'cpyfw/zxfk/2014-03-02/65.html';
 								     }
 								   ?>
-							     <span><a href="http://www.hudsonhome.cn/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></span>
+							     <span><a href="http://www.hudson.com/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></span>
 							   <?php
 }
 }
@@ -302,7 +302,7 @@ $bqno++;
                             </p>
                         </div>
                     </li>
-                    <li class="bg lihover"><a href="http://www.hudsonhome.cn/cptyg/alzs/">产品体验馆</a>
+                    <li class="bg lihover"><a href="http://www.hudson.com/cptyg/alzs/">产品体验馆</a>
                         <div class="navbox">
                             <p class="boxlist" style="padding-left: 310px;">
                                 <?php
@@ -318,7 +318,7 @@ $bqno++;
 								     	$bqr[classpath] = 'cptyg/shtyg/2014-03-07/24.html';
 								     }
 								   ?>
-							     <span><a href="http://www.hudsonhome.cn/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></span>
+							     <span><a href="http://www.hudson.com/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></span>
 							    <?php
 }
 }
@@ -326,15 +326,15 @@ $bqno++;
                             </p>
                         </div>
                     </li>
-                    <li class="bg lihover"><a href="http://www.hudsonhome.cn/rlzy/">人力资源</a>
+                    <li class="bg lihover"><a href="http://www.hudson.com/rlzy/">人力资源</a>
                         <div class="navbox">
                             <p class="boxlist" style="padding-left: 280px;">
-                               <span><a href="http://www.hudsonhome.cn/rlzy/rcg/2014-03-02/44.html">人才观</a></span>
-                               <span><a href="http://www.hudsonhome.cn/rlzy/zwfz/2014-03-02/45.html">职位发展</a></span>
-                               <span><a href="http://www.hudsonhome.cn/rlzy/xcfl/2014-03-02/46.html">薪酬福利</a></span>
-                               <span><a href="http://www.hudsonhome.cn/rlzy/ypzn/2014-03-02/47.html">应聘指南</a></span>
-                               <span><a href="http://www.hudsonhome.cn/rlzy/zwlb/">职位列表</a></span>
-                               <span><a href="http://www.hudsonhome.cn/rlzy/wzhdx/">我在哈德逊</a></span>
+                               <span><a href="http://www.hudson.com/rlzy/rcg/2014-03-02/44.html">人才观</a></span>
+                               <span><a href="http://www.hudson.com/rlzy/zwfz/2014-03-02/45.html">职位发展</a></span>
+                               <span><a href="http://www.hudson.com/rlzy/xcfl/2014-03-02/46.html">薪酬福利</a></span>
+                               <span><a href="http://www.hudson.com/rlzy/ypzn/2014-03-02/47.html">应聘指南</a></span>
+                               <span><a href="http://www.hudson.com/rlzy/zwlb/">职位列表</a></span>
+                               <span><a href="http://www.hudson.com/rlzy/wzhdx/">我在哈德逊</a></span>
                             </p>
                         </div>
                     </li>
@@ -402,28 +402,28 @@ $bqno++;
 
                 </div>
                 <div class="inmore">
-                    <a href="http://www.hudsonhome.cn/xwzx/qyxw/" class="red2">更多文章 ></a>
+                    <a href="http://www.hudson.com/xwzx/qyxw/" class="red2">更多文章 ></a>
                 </div>
             </div>
             <!-- 底部弹出开始    -->
             <div class="show_index">
                 <ul class="showinlist lihover">
-                    <li><a href="http://www.hudsonhome.cn/">
-                        <img src="http://www.hudsonhome.cn/skin/default/images/index01.jpg" width="245" height="111" /></a>
+                    <li><a href="http://www.hudson.com/">
+                        <img src="http://www.hudson.com/skin/default/images/index01.jpg" width="245" height="111" /></a>
                         <div class="bgjiao left1">
                         </div>
                         <div class="showbox">
                             <div class="showtitle">
-                                <span><a href="http://www.hudsonhome.cn/cptyg/shtyg/2014-02-25/1.html">更多 >></a></span>
+                                <span><a href="http://www.hudson.com/cptyg/shtyg/2014-02-25/1.html">更多 >></a></span>
                                 <h2>
                                     生活体验馆</h2>
                             </div>
                             <div class="showboxcon">
                                 <div class="showleft">
-                                    <span class="hover" onclick="setTab('showbox',1,4)" id="showbox1"><a href="javascript:">厨房</a><img src="http://www.hudsonhome.cn/skin/default/images/tx1.jpg" width="272" height="62" /></span> 
-                      <span onclick="setTab('showbox',2,4)" id="showbox2"><a href="javascript:">客厅</a><img src="http://www.hudsonhome.cn/skin/default/images/tx2.jpg" width="272"height="62" /></span>
-                                     <span onclick="setTab('showbox',3,4)" id="showbox3"><a href="javascript:">卧室</a><img src="http://www.hudsonhome.cn/skin/default/images/tx3.jpg" width="272" height="62" /></span>
-                                    <span onclick="setTab('showbox',4,4)" id="showbox4"><a href="javascript:">浴室</a><img src="http://www.hudsonhome.cn/skin/default/images/tx4.jpg" width="272" height="62" /></span>
+                                    <span class="hover" onclick="setTab('showbox',1,4)" id="showbox1"><a href="javascript:">厨房</a><img src="http://www.hudson.com/skin/default/images/tx1.jpg" width="272" height="62" /></span> 
+                      <span onclick="setTab('showbox',2,4)" id="showbox2"><a href="javascript:">客厅</a><img src="http://www.hudson.com/skin/default/images/tx2.jpg" width="272"height="62" /></span>
+                                     <span onclick="setTab('showbox',3,4)" id="showbox3"><a href="javascript:">卧室</a><img src="http://www.hudson.com/skin/default/images/tx3.jpg" width="272" height="62" /></span>
+                                    <span onclick="setTab('showbox',4,4)" id="showbox4"><a href="javascript:">浴室</a><img src="http://www.hudson.com/skin/default/images/tx4.jpg" width="272" height="62" /></span>
                                 </div>
                                 <div class="showright">
                                     
@@ -630,13 +630,13 @@ $bqno++;
                             </div>
                         </div>
                     </li>
-                    <li><a target="_blank" href="http://www.hudsonhome.cn/">
-                        <img src="http://www.hudsonhome.cn/skin/default/images/index02.jpg" width="245" height="111" /></a>
+                    <li><a target="_blank" href="http://www.hudson.com/">
+                        <img src="http://www.hudson.com/skin/default/images/index02.jpg" width="245" height="111" /></a>
                         <div class="bgjiao left1">
                         </div>
                         <div class="showbox showboxleft2">
                             <div class="showtitle">
-                                <span><a target="_blank" href="http://www.hudsonhome.cn/cpyfw/zxcp/">更多 >></a></span>
+                                <span><a target="_blank" href="http://www.hudson.com/cpyfw/zxcp/">更多 >></a></span>
                                 <h2>
                                     新品推介</h2>
                             </div>
@@ -663,8 +663,8 @@ $bqno++;
 
                         </div>
                     </li>
-                    <li><a href="http://www.hudsonhome.cn/">
-                        <img src="http://www.hudsonhome.cn/skin/default/images/index03.jpg" width="245" height="111" /></a>
+                    <li><a href="http://www.hudson.com/">
+                        <img src="http://www.hudson.com/skin/default/images/index03.jpg" width="245" height="111" /></a>
                         <div class="bgjiao left1">
                         </div>
                         <div class="showbox showboxleft3">
@@ -700,8 +700,8 @@ $bqno++;
 
                         </div>
                     </li>
-                    <li target="_blank" style="margin-right: 0"><a href="http://www.hudsonhome.cn/">
-                        <img src="http://www.hudsonhome.cn/skin/default/images/index04.jpg" width="245" height="111" /></a>
+                    <li target="_blank" style="margin-right: 0"><a href="http://www.hudson.com/">
+                        <img src="http://www.hudson.com/skin/default/images/index04.jpg" width="245" height="111" /></a>
                         <div class="bgjiao left1">
                         </div>
                         <div class="showbox showboxleft4">
@@ -722,7 +722,7 @@ $bqno++;
 ?>
 								<div class="l"><a href="<?=$bqr[titleurl]?>" target="_blank"><img src="<?=$bqr[titlepic]?>" style="width: 304px; height: 254px" /></a></div>
 								<div class="r">
-									<h3><a href="http://www.hudsonhome.cn/" target="_blank"><?=$bqr[title]?></a></h3>
+									<h3><a href="http://www.hudson.com/" target="_blank"><?=$bqr[title]?></a></h3>
 									<p><?=esub($bqr[smalltext],300)?></p>
 									<p align="right" style="line-height: 14px"><a class="red2" href="<?=$bqr[titleurl]?>" target="_blank">详细 &gt;&gt;</a></p>
 								</div>
@@ -772,11 +772,11 @@ $bqno++;
             	<h3>公司动态</h3>
                 <ul>
                 	
-                	        <li><a href="http://www.hudsonhome.cn/xwzx/hdzq/">活动专区</a></li>
+                	        <li><a href="http://www.hudson.com/xwzx/hdzq/">活动专区</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/xwzx/qyxw/">企业新闻</a></li>
+                	        <li><a href="http://www.hudson.com/xwzx/qyxw/">企业新闻</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/xwzx/axgy/">爱心公益</a></li>
+                	        <li><a href="http://www.hudson.com/xwzx/axgy/">爱心公益</a></li>
                 	    
                 </ul>
             </div>
@@ -784,17 +784,17 @@ $bqno++;
             	<h3>关于哈德逊</h3>
                 <ul>
                 	
-                	        <li><a href="http://www.hudsonhome.cn/">董事长介绍</a></li>
+                	        <li><a href="http://www.hudson.com/">董事长介绍</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/6.html">企业简介</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/6.html">企业简介</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/7.html">企业文化</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/7.html">企业文化</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/8.html">发展历程</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/8.html">发展历程</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/11.html">联系我们</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/11.html">联系我们</a></li>
                 	        
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/10.html">哈德逊荣誉</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/10.html">哈德逊荣誉</a></li>
                 	    
                 </ul>
             </div>
@@ -821,17 +821,17 @@ $bqno++;
             <div class="fm_box">
             	<h3>人力资源</h3>
                 <ul>
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/rcg/2014-03-02/44.html">人才观</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/rcg/2014-03-02/44.html">人才观</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/zwfz/2014-03-02/45.html">职位发展</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/zwfz/2014-03-02/45.html">职位发展</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/xcfl/2014-03-02/46.html">薪酬福利</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/xcfl/2014-03-02/46.html">薪酬福利</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/ypzn/2014-03-02/47.html">应聘指南</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/ypzn/2014-03-02/47.html">应聘指南</a></li>
                 	    
                 	     <li><a href="">职位列表</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/wzhdx/">我在哈德逊</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/wzhdx/">我在哈德逊</a></li>
                 </ul>
             </div>
             <div class="fm_box" style="margin:0">
@@ -845,7 +845,7 @@ while($bqr=$empire->fetch($ecms_bq_sql)){
 $bqsr=sys_ReturnEcmsLoopStext($bqr);
 $bqno++;
 ?>
-			         <li><a href="http://www.hudsonhome.cn/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></li>
+			         <li><a href="http://www.hudson.com/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></li>
 			       <?php
 }
 }
@@ -899,7 +899,7 @@ $bqno++;
         <script type="text/javascript" src="http://links.webscan.360.cn/index/index/b447b66a05b05015e513cd4b065ed8f6"></script>
   </div>
  	<div class="wrap">
-   佛山哈德逊股份有限公司&copy;版权所有 保留所有权利 <a href="http://www.hudsonhome.cn/wzdt.htm" target="_blank">网站地图</a> 展销中心：+86-757-82278159 客户服务中心：+86-757-82278159 
+   佛山哈德逊股份有限公司&copy;版权所有 保留所有权利 <a href="http://www.hudson.com/wzdt.htm" target="_blank">网站地图</a> 展销中心：+86-757-82278159 客户服务中心：+86-757-82278159 
 <script type="text/javascript">
 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
 document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Faed9e7d575a1cc8a944631fa5314681e' type='text/javascript'%3E%3C/script%3E"));
@@ -909,8 +909,8 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
    </div>
 </div> 
     <!-- 尾部结束 -->
-    <script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/prolist.js"></script>
-    <script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/prolist.js"></script>
+    <script type="text/javascript" src="http://www.hudson.com/skin/default/js/prolist.js"></script>
+    <script type="text/javascript" src="http://www.hudson.com/skin/default/js/prolist.js"></script>
     <script type="text/javascript">
 		$(function(){
 		

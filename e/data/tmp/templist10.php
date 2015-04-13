@@ -51,7 +51,7 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
          	            }  
          	       } catch(err){}  
          	}  
-         uaredirect("http://www.hudsonhome.cn/wap/");
+         uaredirect("http://www.hudson.com/wap/");
 
 
 </script>
@@ -431,7 +431,7 @@ $bqno++;
         <script type="text/javascript" src="http://links.webscan.360.cn/index/index/b447b66a05b05015e513cd4b065ed8f6"></script>
   </div>
  	<div class="wrap">
-   佛山哈德逊股份有限公司&copy;版权所有 保留所有权利 <a href="http://www.hudsonhome.cn/wzdt.htm" target="_blank">网站地图</a> 展销中心：+86-757-82278159 客户服务中心：+86-757-82278159 
+   佛山哈德逊股份有限公司&copy;版权所有 保留所有权利 <a href="http://www.hudson.com/wzdt.htm" target="_blank">网站地图</a> 展销中心：+86-757-82278159 客户服务中心：+86-757-82278159 
 <script type="text/javascript">
 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
 document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Faed9e7d575a1cc8a944631fa5314681e' type='text/javascript'%3E%3C/script%3E"));

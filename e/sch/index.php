@@ -74,8 +74,8 @@ $url="<a href='".ReturnSiteIndexUrl()."'>".$fun_r['index']."</a>&nbsp;>&nbsp;".$
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 <title>搜索 - Powered by EmpireCMS</title>
-<link href="http://www.hudsonhome.cn/skin/default/css/style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="http://www.hudsonhome.cn/skin/default/js/tabs.js"></script>
+<link href="http://www.hudson.com/skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.hudson.com/skin/default/js/tabs.js"></script>
 <style type="text/css">
 <!--
 .r {
@@ -99,11 +99,11 @@ margin-top:10px;
 <td width="63%">
 <!-- 登录 -->
 <script>
-document.write('<script src="http://www.hudsonhome.cn/e/member/login/loginjs.php?t='+Math.random()+'"><'+'/script>');
+document.write('<script src="http://www.hudson.com/e/member/login/loginjs.php?t='+Math.random()+'"><'+'/script>');
 </script>
 </td>
 <td align="right">
-<a onclick="window.external.addFavorite(location.href,document.title)" href="#ecms">加入收藏</a> | <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.hudsonhome.cn/')" href="#ecms">设为首页</a> | <a href="http://www.hudsonhome.cn/e/member/cp/">会员中心</a> | <a href="http://www.hudsonhome.cn/e/DoInfo/">我要投稿</a> | <a href="http://www.hudsonhome.cn/e/web/?type=rss2" target="_blank">RSS<img src="http://www.hudsonhome.cn/skin/default/images/rss.gif" border="0" hspace="2" /></a>
+<a onclick="window.external.addFavorite(location.href,document.title)" href="#ecms">加入收藏</a> | <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.hudsonhome.cn/')" href="#ecms">设为首页</a> | <a href="http://www.hudson.com/e/member/cp/">会员中心</a> | <a href="http://www.hudson.com/e/DoInfo/">我要投稿</a> | <a href="http://www.hudson.com/e/web/?type=rss2" target="_blank">RSS<img src="http://www.hudson.com/skin/default/images/rss.gif" border="0" hspace="2" /></a>
 </td>
 </tr>
 </table></td>
@@ -111,23 +111,23 @@ document.write('<script src="http://www.hudsonhome.cn/e/member/login/loginjs.php
 </table>
 <table width="100%" border="0" cellpadding="0" cellspacing="10">
 <tr valign="middle">
-<td width="240" align="center"><a href="http://www.hudsonhome.cn/"><img src="http://www.hudsonhome.cn/skin/default/images/logo.gif" width="200" height="65" border="0" /></a></td>
-<td align="center"><a href="http://www.phome.net/OpenSource/" target="_blank"><img src="http://www.hudsonhome.cn/skin/default/images/opensource.gif" width="100%" height="70" border="0" /></a></td>
+<td width="240" align="center"><a href="http://www.hudson.com/"><img src="http://www.hudson.com/skin/default/images/logo.gif" width="200" height="65" border="0" /></a></td>
+<td align="center"><a href="http://www.phome.net/OpenSource/" target="_blank"><img src="http://www.hudson.com/skin/default/images/opensource.gif" width="100%" height="70" border="0" /></a></td>
 </tr>
 </table>
 <!-- 导航tab选项卡 -->
 <table width="920" border="0" align="center" cellpadding="0" cellspacing="0" class="nav">
   <tr> 
     <td class="nav_global"><ul>
-        <li class="curr" id="tabnav_btn_0" onmouseover="tabit(this)"><a href="http://www.hudsonhome.cn/">首页</a></li>
-        <li id="tabnav_btn_1" onmouseover="tabit(this)"><a href="http://www.hudsonhome.cn/news/">新闻中心</a></li>
-        <li id="tabnav_btn_2" onmouseover="tabit(this)"><a href="http://www.hudsonhome.cn/download/">下载中心</a></li>
-        <li id="tabnav_btn_3" onmouseover="tabit(this)"><a href="http://www.hudsonhome.cn/movie/">影视频道</a></li>
-        <li id="tabnav_btn_4" onmouseover="tabit(this)"><a href="http://www.hudsonhome.cn/shop/">网上商城</a></li>
-        <li id="tabnav_btn_5" onmouseover="tabit(this)"><a href="http://www.hudsonhome.cn/flash/">FLASH频道</a></li>
-        <li id="tabnav_btn_6" onmouseover="tabit(this)"><a href="http://www.hudsonhome.cn/photo/">图片频道</a></li>
-        <li id="tabnav_btn_7" onmouseover="tabit(this)"><a href="http://www.hudsonhome.cn/article/">文章中心</a></li>
-        <li id="tabnav_btn_8" onmouseover="tabit(this)"><a href="http://www.hudsonhome.cn/info/">分类信息</a></li>
+        <li class="curr" id="tabnav_btn_0" onmouseover="tabit(this)"><a href="http://www.hudson.com/">首页</a></li>
+        <li id="tabnav_btn_1" onmouseover="tabit(this)"><a href="http://www.hudson.com/news/">新闻中心</a></li>
+        <li id="tabnav_btn_2" onmouseover="tabit(this)"><a href="http://www.hudson.com/download/">下载中心</a></li>
+        <li id="tabnav_btn_3" onmouseover="tabit(this)"><a href="http://www.hudson.com/movie/">影视频道</a></li>
+        <li id="tabnav_btn_4" onmouseover="tabit(this)"><a href="http://www.hudson.com/shop/">网上商城</a></li>
+        <li id="tabnav_btn_5" onmouseover="tabit(this)"><a href="http://www.hudson.com/flash/">FLASH频道</a></li>
+        <li id="tabnav_btn_6" onmouseover="tabit(this)"><a href="http://www.hudson.com/photo/">图片频道</a></li>
+        <li id="tabnav_btn_7" onmouseover="tabit(this)"><a href="http://www.hudson.com/article/">文章中心</a></li>
+        <li id="tabnav_btn_8" onmouseover="tabit(this)"><a href="http://www.hudson.com/info/">分类信息</a></li>
       </ul></td>
   </tr>
 </table>
@@ -135,7 +135,7 @@ document.write('<script src="http://www.hudsonhome.cn/e/member/login/loginjs.php
 	<tr valign="top">
 		<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
 				<tr>
-					<td>现在的位置：<a href="http://www.hudsonhome.cn/">首页</a>&nbsp;>&nbsp;搜索</td>
+					<td>现在的位置：<a href="http://www.hudson.com/">首页</a>&nbsp;>&nbsp;搜索</td>
 				</tr>
 			</table>
 			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
@@ -224,11 +224,11 @@ $empire=null;
             	<h3>公司动态</h3>
                 <ul>
                 	
-                	        <li><a href="http://www.hudsonhome.cn/xwzx/hdzq/">活动专区</a></li>
+                	        <li><a href="http://www.hudson.com/xwzx/hdzq/">活动专区</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/xwzx/qyxw/">企业新闻</a></li>
+                	        <li><a href="http://www.hudson.com/xwzx/qyxw/">企业新闻</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/xwzx/axgy/">爱心公益</a></li>
+                	        <li><a href="http://www.hudson.com/xwzx/axgy/">爱心公益</a></li>
                 	    
                 </ul>
             </div>
@@ -236,17 +236,17 @@ $empire=null;
             	<h3>关于哈德逊</h3>
                 <ul>
                 	
-                	        <li><a href="http://www.hudsonhome.cn/">董事长介绍</a></li>
+                	        <li><a href="http://www.hudson.com/">董事长介绍</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/6.html">企业简介</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/6.html">企业简介</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/7.html">企业文化</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/7.html">企业文化</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/8.html">发展历程</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/8.html">发展历程</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/11.html">联系我们</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/11.html">联系我们</a></li>
                 	        
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/10.html">哈德逊荣誉</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/10.html">哈德逊荣誉</a></li>
                 	    
                 </ul>
             </div>
@@ -263,24 +263,24 @@ $empire=null;
             <div class="fm_box">
             	<h3>人力资源</h3>
                 <ul>
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/rcg/2014-03-02/44.html">人才观</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/rcg/2014-03-02/44.html">人才观</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/zwfz/2014-03-02/45.html">职位发展</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/zwfz/2014-03-02/45.html">职位发展</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/xcfl/2014-03-02/46.html">薪酬福利</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/xcfl/2014-03-02/46.html">薪酬福利</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/ypzn/2014-03-02/47.html">应聘指南</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/ypzn/2014-03-02/47.html">应聘指南</a></li>
                 	    
                 	     <li><a href="">职位列表</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/wzhdx/">我在哈德逊</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/wzhdx/">我在哈德逊</a></li>
                 </ul>
             </div>
             <div class="fm_box" style="margin:0">
             	<h3>产品</h3>
                 <ul>
                   [e:loop={'select classname,classpath from phome_enewsclass where bclassid=11 order by classid desc limit 7',2,24,0}]
-			         <li><a href="http://www.hudsonhome.cn/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></li>
+			         <li><a href="http://www.hudson.com/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></li>
 			       [/e:loop]
                 </ul>
             </div>
@@ -331,7 +331,7 @@ $empire=null;
         <script type="text/javascript" src="http://links.webscan.360.cn/index/index/b447b66a05b05015e513cd4b065ed8f6"></script>
   </div>
  	<div class="wrap">
-   佛山哈德逊股份有限公司&copy;版权所有 保留所有权利 <a href="http://www.hudsonhome.cn/wzdt.htm" target="_blank">网站地图</a> 展销中心：+86-757-82278159 客户服务中心：+86-757-82278159 
+   佛山哈德逊股份有限公司&copy;版权所有 保留所有权利 <a href="http://www.hudson.com/wzdt.htm" target="_blank">网站地图</a> 展销中心：+86-757-82278159 客户服务中心：+86-757-82278159 
 <script type="text/javascript">
 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
 document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Faed9e7d575a1cc8a944631fa5314681e' type='text/javascript'%3E%3C/script%3E"));

@@ -33,13 +33,13 @@ h2 { color: #1e3a9e; font-size: 25px; font-weight: bold;  }
 .ecommenttext {clear:left;margin:0;padding:0;}
 -->
 </style>
-<script src="http://www.hudsonhome.cn/e/data/js/ajax.js"></script>
+<script src="http://www.hudson.com/e/data/js/ajax.js"></script>
 </head>
 
 <body topmargin="0">
 <table width="766" border="0" align="center" cellpadding="3" cellspacing="1">
   <tr>
-    <td width="210"><a href="http://www.hudsonhome.cn/"><img src="http://www.hudsonhome.cn/skin/default/images/logo.gif" border="0" /></a></td>
+    <td width="210"><a href="http://www.hudson.com/"><img src="http://www.hudson.com/skin/default/images/logo.gif" border="0" /></a></td>
     <td><h1>网友评论</h1></td>
     <td><div align="right"><a href="#tosaypl"><strong><font color="#FF0000">我也评两句</font></strong></a></div></td>
   </tr>
@@ -131,7 +131,7 @@ while($r=$empire->fetch($sql))
       </table>
       <table width="100%" border="0" cellspacing="1" cellpadding="3">
         <tr>
-          <td background="http://www.hudsonhome.cn/skin/default/images/plhrbg.gif"></td>
+          <td background="http://www.hudson.com/skin/default/images/plhrbg.gif"></td>
         </tr>
       </table>
       
@@ -167,7 +167,7 @@ while($r=$empire->fetch($sql))
             <input name="password" type="password" id="password" size="12" value="<?=$lpassword?>" />
             验证码： 
             <input name="key" type="text" id="key" size="6" />
-              <img src="http://www.hudsonhome.cn/e/ShowKey/?v=pl" align="middle" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.hudsonhome.cn/e/member/register/" target="_blank">还没有注册？</a></td>
+              <img src="http://www.hudson.com/e/ShowKey/?v=pl" align="middle" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.hudson.com/e/member/register/" target="_blank">还没有注册？</a></td>
         </tr>
       </table></td>
   </tr>
@@ -186,7 +186,7 @@ while($r=$empire->fetch($sql))
         </tr>
         <tr> 
           <td><div align="center"> 
-              <script src="http://www.hudsonhome.cn/d/js/js/plface.js"></script>
+              <script src="http://www.hudson.com/d/js/js/plface.js"></script>
             </div></td>
         </tr>
       </table> </td>
@@ -203,11 +203,11 @@ while($r=$empire->fetch($sql))
             	<h3>公司动态</h3>
                 <ul>
                 	
-                	        <li><a href="http://www.hudsonhome.cn/xwzx/hdzq/">活动专区</a></li>
+                	        <li><a href="http://www.hudson.com/xwzx/hdzq/">活动专区</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/xwzx/qyxw/">企业新闻</a></li>
+                	        <li><a href="http://www.hudson.com/xwzx/qyxw/">企业新闻</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/xwzx/axgy/">爱心公益</a></li>
+                	        <li><a href="http://www.hudson.com/xwzx/axgy/">爱心公益</a></li>
                 	    
                 </ul>
             </div>
@@ -215,17 +215,17 @@ while($r=$empire->fetch($sql))
             	<h3>关于哈德逊</h3>
                 <ul>
                 	
-                	        <li><a href="http://www.hudsonhome.cn/">董事长介绍</a></li>
+                	        <li><a href="http://www.hudson.com/">董事长介绍</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/6.html">企业简介</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/6.html">企业简介</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/7.html">企业文化</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/7.html">企业文化</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/8.html">发展历程</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/8.html">发展历程</a></li>
                 	    
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/11.html">联系我们</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/11.html">联系我们</a></li>
                 	        
-                	        <li><a href="http://www.hudsonhome.cn/zjhdx/2014-02-22/10.html">哈德逊荣誉</a></li>
+                	        <li><a href="http://www.hudson.com/zjhdx/2014-02-22/10.html">哈德逊荣誉</a></li>
                 	    
                 </ul>
             </div>
@@ -242,24 +242,24 @@ while($r=$empire->fetch($sql))
             <div class="fm_box">
             	<h3>人力资源</h3>
                 <ul>
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/rcg/2014-03-02/44.html">人才观</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/rcg/2014-03-02/44.html">人才观</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/zwfz/2014-03-02/45.html">职位发展</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/zwfz/2014-03-02/45.html">职位发展</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/xcfl/2014-03-02/46.html">薪酬福利</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/xcfl/2014-03-02/46.html">薪酬福利</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/ypzn/2014-03-02/47.html">应聘指南</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/ypzn/2014-03-02/47.html">应聘指南</a></li>
                 	    
                 	     <li><a href="">职位列表</a></li>
                 	    
-                	     <li><a href="http://www.hudsonhome.cn/rlzy/wzhdx/">我在哈德逊</a></li>
+                	     <li><a href="http://www.hudson.com/rlzy/wzhdx/">我在哈德逊</a></li>
                 </ul>
             </div>
             <div class="fm_box" style="margin:0">
             	<h3>产品</h3>
                 <ul>
                   [e:loop={'select classname,classpath from phome_enewsclass where bclassid=11 order by classid desc limit 7',2,24,0}]
-			         <li><a href="http://www.hudsonhome.cn/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></li>
+			         <li><a href="http://www.hudson.com/<?=$bqr[classpath]?>"><?=$bqr[classname]?></a></li>
 			       [/e:loop]
                 </ul>
             </div>
@@ -310,7 +310,7 @@ while($r=$empire->fetch($sql))
         <script type="text/javascript" src="http://links.webscan.360.cn/index/index/b447b66a05b05015e513cd4b065ed8f6"></script>
   </div>
  	<div class="wrap">
-   佛山哈德逊股份有限公司&copy;版权所有 保留所有权利 <a href="http://www.hudsonhome.cn/wzdt.htm" target="_blank">网站地图</a> 展销中心：+86-757-82278159 客户服务中心：+86-757-82278159 
+   佛山哈德逊股份有限公司&copy;版权所有 保留所有权利 <a href="http://www.hudson.com/wzdt.htm" target="_blank">网站地图</a> 展销中心：+86-757-82278159 客户服务中心：+86-757-82278159 
 <script type="text/javascript">
 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
 document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Faed9e7d575a1cc8a944631fa5314681e' type='text/javascript'%3E%3C/script%3E"));

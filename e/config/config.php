@@ -237,7 +237,7 @@ $public_r=array('sitename'=>'哈德逊瓷砖官网|全抛釉瓷砖|微晶石瓷�
 'gbkey_ok'=>0,
 'fbkey_ok'=>0,
 'newaddinfotime'=>0,
-'classnavs'=>'<a href=\"http://www.hudsonhome.cn/sy/\">首页</a>&nbsp;|&nbsp;<a href=\"http://www.hudsonhome.cn/zjhdx/\">走进哈德逊</a>&nbsp;|&nbsp;<a href=\"http://www.hudsonhome.cn/xwzx/\">新闻资讯</a>&nbsp;|&nbsp;<a href=\"http://www.hudsonhome.cn/cpyfw/\">产品与服务</a>&nbsp;|&nbsp;<a href=\"http://www.hudsonhome.cn/cptyg/\">产品体验馆</a>&nbsp;|&nbsp;<a href=\"http://www.hudsonhome.cn/rlzy/\">人力资源</a>&nbsp;|&nbsp;<a href=\"http://www.hudsonhome.cn/qt/\">其他(请勿删除)</a>&nbsp;|&nbsp;<a href=\"http://www.hudsonhome.cn/wap/\">WAP网站</a>',
+'classnavs'=>'<a href=\"http://www.hudson.com/sy/\">首页</a>&nbsp;|&nbsp;<a href=\"http://www.hudson.com/zjhdx/\">走进哈德逊</a>&nbsp;|&nbsp;<a href=\"http://www.hudson.com/xwzx/\">新闻资讯</a>&nbsp;|&nbsp;<a href=\"http://www.hudson.com/cpyfw/\">产品与服务</a>&nbsp;|&nbsp;<a href=\"http://www.hudson.com/cptyg/\">产品体验馆</a>&nbsp;|&nbsp;<a href=\"http://www.hudson.com/rlzy/\">人力资源</a>&nbsp;|&nbsp;<a href=\"http://www.hudson.com/qt/\">其他(请勿删除)</a>&nbsp;|&nbsp;<a href=\"http://www.hudson.com/wap/\">WAP网站</a>',
 'adminstyle'=>',1,2,',
 'docnewsnum'=>300,
 'openschall'=>0,
